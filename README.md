@@ -1,0 +1,2 @@
+# EWELD_forecasting
+基于EWELD数据集的极端天气下负荷预测，使用轻量adapter提高已有基线模型性能。
